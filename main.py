@@ -31,4 +31,7 @@
 #print("Este signo \\ es una barra invertida")
 
 #Tarea
-print("Línea 1 \nLínea 2 \nLínea 3") 
+#print("Línea 1 \nLínea 2 \nLínea 3") 
+
+#Input ---> Es una funcion que le permite al usuario ingresar datos por teclado
+print("Tu nombre y apellido es \"" + (input("Dime tu nombre: ")) + " " + (input("Dime tu apellido: ")) + "\"")
